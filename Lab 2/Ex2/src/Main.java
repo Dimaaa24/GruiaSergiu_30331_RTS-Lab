@@ -3,7 +3,7 @@ import Fir.FirController;
 
 public class Main {
     private static final int nrOfThreads = 8;
-    private static final int processorLoad = 1000000;
+    private static final int processorLoad = 100000;
 
     public Main() {
     }
