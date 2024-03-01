@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ad7398b8-f650-4178-97ec-63cb71f9c6cd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fir/FirController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fir/FirModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Presentation/Window.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab 2/Lab2-2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab 2/Lab2-2/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab 2/Lab2-2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab 2/Lab2-2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab 2/Lab2-2/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab 2/Lab2-2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab 2/Lab2-2/Lab2-2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab 2/Lab2-2/out/production/Lab2-2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab 2/Lab2-2/out/production/Lab2-2/Presentation/Windows.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab 2/Lab2-2/out/production/Lab2-2/Threads/FirController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab 2/Lab2-2/out/production/Lab2-2/Threads/FirModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab 2/Lab2-2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab 2/Lab2-2/src/Presentation/Windows.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab 2/Lab2-2/src/Threads/FirController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab 2/Lab2-2/src/Threads/FirModel.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2d5ijEZrfMndYN4pQd1PgWCEHn4" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad7398b8-f650-4178-97ec-63cb71f9c6cd" name="Changes" comment="" />
+      <created>1709304473028</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709304473028</updated>
+    </task>
+    <servers />
+  </component>
+</project>
