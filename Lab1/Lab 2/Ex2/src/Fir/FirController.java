@@ -15,7 +15,6 @@ public class FirController
             firModel.addObserver(window);
             this.firModels.add(firModel);
         }
-
     }
 
     public void start()

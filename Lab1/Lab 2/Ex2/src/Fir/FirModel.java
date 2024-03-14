@@ -10,7 +10,6 @@ public class FirModel extends Observable implements Runnable {
         this.id = id;
         this.processorLoad = processorLoad;
     }
-
     public int getId() {
         return this.id;
     }

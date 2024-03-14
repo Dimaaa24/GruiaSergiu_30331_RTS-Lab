@@ -28,19 +28,18 @@ public class Window extends JFrame implements Observer {
             this.add(progressBar);
             this.progressBars.add(progressBar);
         }
-
     }
 
     public void setProgressValue(int id, int val) {
         ((JProgressBar)this.progressBars.get(id)).setValue(val);
     }
 
-    public void update(Observable o, Object arg) {
+    public void update(Observable o, Object arg)
+    {
         if (arg instanceof Integer) {
             int id = ((FirModel)o).getId();
             int progress = (Integer)arg;
             this.setProgressValue(id, progress);
         }
-
     }
 }
